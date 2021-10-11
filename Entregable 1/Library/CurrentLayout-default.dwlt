@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1280
     height: 941
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 102
+  controlID: 83
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 111
+  controlID: 93
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 112
+  controlID: 39
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -262,7 +262,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: GameView
+  m_Name: SceneView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -273,12 +273,12 @@ MonoBehaviour:
     height: 620
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
   - {fileID: 16}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,14 +325,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Materials
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Alexander_Hidalgo_Maya\entregable1_alexander_hidalgo\Entregable
+  m_LastProjectPath: D:\Alexander_Hidalgo_Unity\entregable1_alexander_hidalgo\Entregable
     1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 683d0000
-    m_LastClickedID: 15720
+    m_SelectedIDs: 6c3d0000
+    m_LastClickedID: 15724
     m_ExpandedIDs: 000000005c3d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -482,9 +482,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b23c0000
+      m_SelectedIDs: 823c0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 54fbffff
+      m_ExpandedIDs: eafaffff52fbffff54fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -544,9 +544,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.8655386, y: 2.6492183, z: -0.5050936}
+    m_Target: {x: 1.6802057, y: 1.2644, z: -0.431216}
     speed: 2
-    m_Value: {x: 5.8655386, y: 2.6492183, z: -0.5050936}
+    m_Value: {x: 1.6802057, y: 1.2644, z: -0.431216}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -593,13 +593,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.1370594, y: 0.5452698, z: -0.088458754, w: -0.8225182}
+    m_Target: {x: -0.1503837, y: 0.5911217, z: -0.110742845, w: -0.7849597}
     speed: 2
-    m_Value: {x: -0.13705939, y: 0.5452698, z: -0.088458754, w: -0.82251817}
+    m_Value: {x: -0.15051459, y: 0.58980626, z: -0.11049142, w: -0.78566253}
   m_Size:
-    m_Target: 4.0248337
+    m_Target: 0.775166
     speed: 2
-    m_Value: 4.0248337
+    m_Value: 0.775166
   m_Ortho:
     m_Target: 0
     speed: 2
